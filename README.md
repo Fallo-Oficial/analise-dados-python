@@ -36,3 +36,7 @@ Com base na análise, as recomendações para a empresa são:
     ```
 
 3. **Abra o arquivo `python_insights.ipynb` e execute as células.**
+
+## 📩 Contato
+- **GitHub**: [Fallo-Oficial](https://github.com/jlucaslds-dev)
+- **LinkedIn**: [José Lucas Leite da Silva](https://www.linkedin.com/in/jlucaslds/)
